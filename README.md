@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...Javascript
-- 🌱 I’m currently learning ...FrontEnd
+- 🔭 I’m currently working on ...Javascript Frameworks
+- 🌱 I’m currently learning ...Serverless
 - 💬 Ask me about ...AWS, LAMP, virtual computing, Apache, Javascript
 - 📫 How to reach me: ...rahul.shukla13@gmail.com
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... Let's discuss over coffee
 
